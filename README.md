@@ -1,5 +1,5 @@
-# Lucky 7
-## LUCKY-7 BATCH 26 Data Sciences
+#Lucky 7
+## Final Project Data Sciences Rakamin
 - Alfajri
 - Arief G
 - Riski Tri H
