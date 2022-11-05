@@ -1,2 +1,9 @@
 # Lucky 7
-### Final project data science yang disusun oleh 7 teman yaitu Alfajri, Riski, Arief, Geraldo, Amik, Fricillia dan Asri
+## LUCKY-7 BATCH 26 Data Sciences
+- Alfajri
+- Arief G
+- Riski Tri H
+- Geraldo
+- M. Amik
+- Friscilia A
+- Asri Y
